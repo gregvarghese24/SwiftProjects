@@ -1,6 +1,8 @@
 # Welcome to my Swift Projects Repository 
 
-In this repository, each folder contains a small swift app/project that is able to be run on xCode. 
+In this repository, each folder contains a small swift app/project that is able to be run on xCode. Bigger Swift projects
+will have its own repository. This repository contains smaller projects. These small projects allow me to understand and 
+master concepts in iOS, tvOS and watchOS development. 
 
 Each folder will have a summary description here:
 
