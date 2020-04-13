@@ -9,5 +9,8 @@ play music in that genre that are stored in user's iPhone music library.
 Basic UI in xCode, Creating buttons, xCode github/Version Control, privacy permission (accessing iPhone music
 library), button functionality, adding constraints to buttons to be able to resize with different screen sizes. 
 
+## What does it look like? 
+
+![](images/musicApp.png)
 
 
